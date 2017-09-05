@@ -4,3 +4,4 @@
 *.meta text eol=lf
 *.prefab text eol=lf
 *.unity text eol=lf
+*.txt text eol=lf
